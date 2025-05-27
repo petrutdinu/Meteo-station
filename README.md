@@ -1,5 +1,4 @@
 # Stație Meteo All-in-One 🌦️  
-**Autor: Dinu Petruț - 334CD**
 
 ## 📌 Descriere pe scurt
 
@@ -90,8 +89,8 @@ Comutarea se face prin apăsarea unui buton tactil:
 
 ## 🖼️ Schema & Poze
 
-- [Schema bloc](images/1.jpg)  
-- [Schema electrică](images/2.jpg)  
+- [Schema bloc](images/1.png)  
+- [Schema electrică](images/2.png)  
 - ![Poză](images/photo.jpg)
 
 ---
@@ -108,19 +107,9 @@ Comutarea se face prin apăsarea unui buton tactil:
 
 ---
 
-## 📦 Repo GitHub
-
-🔗 [https://github.com/petrutdinu/Meteo-station](https://github.com/petrutdinu/Meteo-station)
-
----
-
 ## ✅ Concluzii
 
 Stația meteo prezentată reușește să integreze concepte esențiale din domeniul sistemelor embedded și să le transforme într-un instrument practic, ușor de extins și aplicabil în scenarii reale de monitorizare IoT.
 
 ---
-
-## 📓 Jurnal
-
-_Pentru a urmări progresul proiectului, vezi [secțiunea "Commits"] în GitHub._
 
